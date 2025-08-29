@@ -52,7 +52,7 @@
 
 ![img02.jpg](pic/img02.jpg)
 
-## changelog of releases
+## Changelog of Releases
 
 - v1.0.1: 添加左侧边栏"自动拔北"; 优化按钮位置; 优化按钮与牌之间切换的逻辑
 - v1.0.0: initial release
